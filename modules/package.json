@@ -7,7 +7,7 @@
 		"gulp": "3.9.1",
 		"jest-fetch-mock": "2.1.2",
 		"jsdoc": "3.5.5",
-		"karma": "4.0.0",
+		"karma": "6.3.14",
 		"liferay-font-awesome": "3.3.2",
 		"liferay-frontend-common-css": "1.0.4",
 		"liferay-jest-junit-reporter": "1.0.1",
